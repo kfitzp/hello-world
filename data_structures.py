@@ -25,3 +25,18 @@ print(q.popleft())
 print("Current Q")
 print(q)
 
+#3 Stack
+stack = []
+stack.append('a')
+stack.append('b')
+stack.append('c')
+print('Initial Stack')
+print(stack)
+
+print(stack.pop())
+stack.append('d')
+print(stack)
+print(stack.pop())
+print(stack)
+
+
