@@ -1,9 +1,4 @@
-# hello-world
-my helloworld repos
-Changes made in github web view
-Adding change by VScode
-Adding a few more lines
-Test 1
-TEst 2
-Test 3
-Adding this extra after merge
+# Python Data Structure Tests
+Instructions
+1. From within VS Code, select a Python 3 interpreter by opening the Command Palette (Ctrl+Shift+P), start typing the Python: Select Interpreter command to search, then select the command.
+
