@@ -6,3 +6,6 @@ Cotains:
 * Array
 * Deque
 * Stack
+* Anothertype
+
+Added via PR
