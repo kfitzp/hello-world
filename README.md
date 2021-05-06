@@ -7,5 +7,4 @@ Cotains:
 * Deque
 * Stack
 * Anothertype
-
 Added via PR
